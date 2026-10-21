@@ -1,0 +1,17 @@
+# This file tracks properties of this Flutter project.
+version:
+  revision: "stable"
+  channel: "stable"
+project_type: app
+migration:
+  platforms:
+    - platform: root
+      create_revision: "3.24.0"
+      base_revision: "3.24.0"
+  enabled:
+    - android: true
+    - ios: true
+    - web: true
+    - windows: false
+    - macos: false
+    - linux: false
